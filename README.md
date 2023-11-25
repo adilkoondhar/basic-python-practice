@@ -1,2 +1,2 @@
 # basic-python-practice
-This repository contains basic python practice files.
+This directory contains a collection of basic python practice files to get familiar with python.
